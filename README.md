@@ -1,5 +1,5 @@
 # Siri-Shortcut-Collection
-A collection of all the Siri Shortcuts I have made
+A collection of all the Siri Shortcuts I have made. I will update this as I make more.
 
 <!--auto-team-table-->
 | Name: | Description: |
@@ -19,3 +19,6 @@ A collection of all the Siri Shortcuts I have made
 | <a href="https://routinehub.co/shortcut/12653/">Duino-Coin Monitor</a> | Stats about your Duino-Coin account |
 | <a href="https://routinehub.co/shortcut/12645/">iSpam</a> | Spam your friends with 100’s of sms’ |
 <!--/auto-team-table-->
+<br>
+<h2>Support development ❤️</h2>
+<a href="https://www.buymeacoffee.com/jordanej20o" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
